@@ -1,4 +1,3 @@
-# Chess engine
 This is a collection of some of the chess engine projects I have been iterating on for the past 5 years. Unfortunately, this is not very organized and I'm not sure if everything still works or is included here.
 # About
 Chess engine development has been a major passion of mine. Back in 2019 my firt python project was attempting to build a neural network from scratch using only standard libraries. The limitation of most of these engines is that they are built in python. System level languages are a much better choice for this sort of application, and is what I am working on now.
